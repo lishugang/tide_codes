@@ -6,5 +6,5 @@
 
 # python calcu_every_cls_map.py --annotation_json_file /data1/TL/data/Cityscapes/annotations/instances_val2017.json --pre_json_file DA_instance_backbone_wasserstein_align_4e3_1_city2foggy_syn.json
 
-python calcu_every_cls_map.py --annotation_json_file /data1/TL/data/Cityscapes/annotations/instances_val2017.json --pre_json_file conddetr_0119.json
+python calcu_every_cls_map.py --annotation_json_file /data1/TL/data/Cityscapes/annotations/instances_val2017.json --pre_json_file conddetr_instance_backbone_wasserstein.json
 
